@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-02-17T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Robotics",
+    "Simultaneous Localization and Mapping (SLAM)",
+    "Structure from Motion (SFM)",
+    "Autonomous Driving"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Electrical and Computer Engineering"
+  institution = "University of California, San Diego"
+#  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.S. in Electrical and Computer Engineering"
+  institution = "University of California, San Diego"
+#  year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Electrical Engineering"
+  institution = "Tsinghua University"
+#  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm a senior research scientist (tech lead) at Baidu Autonomous Driving Business Unit now. Since Jan. 2016, I lead the vehicle positioning and high definition map team at Baidu ADU. **We're hiring.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests include Computer Vision, Robotics, LiDAR/Camera based Vehicle Localization, Visual Odometry (VO), Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
