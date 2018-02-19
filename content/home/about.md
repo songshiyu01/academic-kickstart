@@ -39,4 +39,4 @@ weight = 5
 
 I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm a senior research scientist (tech lead) at Baidu Autonomous Driving Business Unit now. Since Jan. 2016, I lead the vehicle positioning and high definition map team at Baidu ADU. **We're hiring.**
 
-My research interests include Computer Vision, Robotics, LiDAR/Camera based Vehicle Localization, Visual Odometry (VO), Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
+My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
