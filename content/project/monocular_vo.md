@@ -12,7 +12,7 @@ summary = "A real-time monocular visual odometry system that corrects for scale 
 
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "monocular_vo_preview.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
