@@ -42,13 +42,13 @@ projects = ["msf_localization"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1711.05805.pdf"
+url_pdf = "pdf/ICRA18_0470_FI.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
-url_video = "https://www.youtube.com/watch?v=CEvcwRjDVOg"
+url_video = "https://youtu.be/8wRs_TaAfUk"
 #url_poster = ""
 #url_source = ""
 
