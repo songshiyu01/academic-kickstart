@@ -1,42 +1,13 @@
 +++
 # About/Biography widget.
-widget = "about"
-active = true
-date = "2018-02-17T00:00:00"
+widget = "about"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+weight = 5  # Order that this section will appear in.
+date = 2016-04-20T00:00:00
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Computer Vision",
-    "Robotics",
-    "Simultaneous Localization and Mapping (SLAM)",
-    "Structure from Motion (SFM)",
-    "Autonomous Driving"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ph.D. in Electrical and Computer Engineering"
-  institution = "University of California, San Diego"
-#  year = 2014
-
-[[education.courses]]
-  course = "M.S. in Electrical and Computer Engineering"
-  institution = "University of California, San Diego"
-#  year = 2009
-
-[[education.courses]]
-  course = "BSc in Electrical Engineering"
-  institution = "Tsinghua University"
-#  year = 2008
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/author/` folder.
+author = "Admin"
 +++
-
-# Biography
-
-I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm a staff research scientist at Baidu Autonomous Driving Business Unit (ADU) now. Since Jan. 2016, I am the tech lead of the mapping and localization team at Baidu ADU. **We're hiring.**
-
-My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
