@@ -51,7 +51,7 @@ url_video = "https://youtu.be/8wRs_TaAfUk"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/ICRA.2018.8461224"
@@ -67,6 +67,6 @@ math = false
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
 
