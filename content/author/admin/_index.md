@@ -13,7 +13,7 @@ role = "Principal Architect at Baidu IDG"
 organizations = [ { name = "Baidu USA LLC", url = "http://usa.baidu.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction."
+# bio = "My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "songshiyu@baidu.com"

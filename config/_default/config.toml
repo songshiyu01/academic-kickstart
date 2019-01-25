@@ -13,7 +13,7 @@ baseurl = "https://songshiyu01.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 [Shiyu Song](https://songshiyu01.github.io/)"
+copyright = "&copy; 2019 [Shiyu Song](https://songshiyu01.github.io/)"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-41234944-2"
