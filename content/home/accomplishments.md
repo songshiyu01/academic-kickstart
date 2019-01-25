@@ -20,27 +20,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "The 20th China Patent Award - Silver Award"
+  organization = "Issuer: China National Intellectual Property Administration (CNIPA)"
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2018-12-25"
   date_end = ""
-  description = ""
-
-[[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  description = "Patent: ZL201610348334.7 无人车、无人车定位方法、装置和系统，百度在线网络技术（北京）有限公司，宋适宇、李文博、张天雷"
 +++
