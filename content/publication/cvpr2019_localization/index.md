@@ -18,12 +18,11 @@ authors = ["Weixin Lu", "Yao Zhou", "Guowei Wan", "Shenhua Hou", "**Shiyu Song**
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted by *IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, IEEE."
-publication_short = "Accepted by **CVPR**"
+publication = "*IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, IEEE."
+publication_short = "In **CVPR**"
 
 # Abstract and optional shortened version.
-abstract = "We present L3-Net - a novel learning-based LiDAR localization system that achieves centimeter-level localization accuracy, comparable to prior state-of-the-art systems with hand-crafted pipelines. Rather than relying on these hand-crafted modules, we innovatively implement the use of various deep neural network structures to establish a learning-based approach. L3-Net learns local descriptors specifically optimized for matching in different real-world driving scenarios. 3D convolutions over a cost volume built in the solution space significantly boosts the localization accuracy. RNNs are demonstrated to be effective in modeling the vehicle's dynamics, yielding better temporal smoothness and accuracy. We comprehensively validate the effectiveness of our approach using freshly collected datasets. Multiple trials of repetitive data collection over the same road and areas make our dataset ideal for testing localization systems. The  SunnyvaleBigLoop dataset, with a year's time interval between the mapping of and testing the data collected, made it quite challenging, but the low localization error of our method in these datasets demonstrates its maturity for real industrial implementation." 
-
+abstract = "We present L3-Net - a novel learning-based LiDAR localization system that achieves centimeter-level localization accuracy, comparable to prior state-of-the-art systems with hand-crafted pipelines. Rather than relying on these hand-crafted modules, we innovatively implement the use of various deep neural network structures to establish a learning-based approach. L3-Net learns local descriptors specifically optimized for matching in different real-world driving scenarios. 3D convolutions over a cost volume built in the solution space significantly boosts the localization accuracy. RNNs are demonstrated to be effective in modeling the vehicle's dynamics, yielding better temporal smoothness and accuracy. We comprehensively validate the effectiveness of our approach using freshly collected datasets. Multiple trials of repetitive data collection over the same road and areas make our dataset ideal for testing localization systems. The  SunnyvaleBigLoop sequences, with a year's time interval between the collected mapping and testing data, made it quite challenging, but the low localization error of our method in these datasets demonstrates its maturity for real industrial implementation."
 abstract_short = "We present L3-Net - a novel learning-based LiDAR localization system that achieves centimeter-level localization accuracy, comparable to prior state-of-the-art systems with hand-crafted pipelines."
 
 # Is this a featured publication? (true/false)
@@ -40,7 +39,8 @@ projects = ["msf_localization"]
 tags = []
 
 # Links (optional).
-#url_pdf = "pdf/ICRA18_0470_FI.pdf"
+url_pdf = "pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf"
+url_supplementary = "pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019_supplementary.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
