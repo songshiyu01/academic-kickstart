@@ -46,7 +46,7 @@ tags = []
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
-url_video = "https://youtu.be/BO5ggPcznJs"
+url_video = "https://youtu.be/dptbd4D78Mk"
 #url_poster = ""
 #url_source = ""
 
