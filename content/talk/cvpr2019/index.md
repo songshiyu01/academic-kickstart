@@ -1,5 +1,5 @@
 +++
-title = "Localization and HD Map at Baidu Apollo" 
+title = "Inside Apollo: Multisensor Fusion Based Localization" 
 date = 2018-06-17T09:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,8 +12,8 @@ time_end = 2019-06-17T13:00:00
 authors = ["Shiyu Song"]
 
 # Abstract and optional shortened version.
-abstract = "We make brief introduction of HD Map services at Baidu Apollo platform and the techniques behind our multi-sensor fusion based localization system."
-abstract_short = "We make brief introduction of HD Map services at Baidu Apollo platform and the techniques behind our multi-sensor fusion based localization system."
+abstract = "We make a brief introduction of the techniques behind our multi-sensor fusion based localization system. We present a robust and precise localization system that achieves centimeter-level localization accuracy in disparate city scenes. The system adaptively uses information from complementary sensors such as GNSS, LiDAR and IMU to achieve high localization accuracy and resilience in challenging scenes, such as urban downtown, highways, and tunnels. In this tutorial, we introduce the technical principles of each individual localization method and the multisensor fusion framework. We also cover our latest work in the exploration of the learning based LiDAR localization method. It's good for engineers and Ph.D. students who are interested in the vehicle localization system."
+abstract_short = "We make brief introduction of the techniques behind our multi-sensor fusion based localization system."
 
 # Name of event and optional event URL.
 event = "CVPR 2019 - Tutorial"
