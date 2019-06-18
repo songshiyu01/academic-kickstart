@@ -47,7 +47,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "pdf/ShiyuSong_CVPR2019_Localization_Tutorial.pdf"
 url_video = ""
 url_code = ""
 
