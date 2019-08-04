@@ -1,5 +1,5 @@
 +++
-title = "DeepVCP: An End-to-End Deep Neural Network for 3D Point Cloud Registration"
+title = "DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration"
 date = 2019-06-16T00:00:00
 draft = false
 
