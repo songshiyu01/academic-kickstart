@@ -39,14 +39,14 @@ projects = []
 tags = []
 
 # Links (optional).
-#url_pdf = "pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf"
+url_pdf = "pdf/DeepVCP_W.Lu_S.Song_ICCV2019.pdf"
 #url_supplementary = "pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019_supplementary.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = "http://data.apollo.auto"
 #url_project = ""
 #url_slides = ""
-#url_video = "https://youtu.be/dptbd4D78Mk"
+url_video = "https://www.youtube.com/watch?v=O9AMulNyrzY"
 #url_poster = ""
 #url_source = ""
 
