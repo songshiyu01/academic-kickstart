@@ -20,7 +20,7 @@ event = "The ISPRS Geospatial Week - Laser Scanning Workshop"
 event_url = "http://gsw2017.3snews.net/index.php?m=content&c=index&a=show&catid=44&id=99"
 
 # Location of event.
-location = "Wuhan Hubei, China"
+location = "The ISPRS Geospatial Week, Wuhan Hubei, China"
 
 # Is this a featured talk? (true/false)
 featured = true

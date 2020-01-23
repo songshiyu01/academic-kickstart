@@ -5,14 +5,15 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
+  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
 #  contentDir = "content/zh"
-#  title = "Chinese website title..."
+#  title = "Shiyu Song"
 #  [zh.params]
-#    description = "Site description in Chinese..."
+#  description = "宋适宇 百度自动驾驶技术部主任架构师"
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"

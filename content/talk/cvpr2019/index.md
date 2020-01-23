@@ -1,6 +1,6 @@
 +++
 title = "Inside Apollo: Multisensor Fusion Based Localization" 
-date = 2018-06-17T09:00:00  # Schedule page publish date.
+date = 2019-06-17T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -20,7 +20,7 @@ event = "CVPR 2019 - Tutorial"
 event_url = "http://wad.ai/tutorial.html"
 
 # Location of event.
-location = "Long Beach, California, U.S.A."
+location = "CVPR 2019, Long Beach, California, U.S.A."
 
 # Is this a featured talk? (true/false)
 featured = true

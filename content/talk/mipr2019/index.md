@@ -1,6 +1,6 @@
 +++
 title = "Towards Learning-based Localization for Autonomous Driving" 
-date = 2018-03-28T09:00:00  # Schedule page publish date.
+date = 2019-03-28T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -20,7 +20,7 @@ event = "MIPR 2019 - Innovation Forum"
 event_url = "http://www.ieee-mipr.org/towards_autonomous_driving.html"
 
 # Location of event.
-location = "San Jose California, U.S.A."
+location = "MIPR 2019, San Jose California, U.S.A."
 
 # Is this a featured talk? (true/false)
 featured = true

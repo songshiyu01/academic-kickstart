@@ -18,7 +18,7 @@ authors = ["Weixin Lu", "Yao Zhou", "Guowei Wan", "Shenhua Hou", "**Shiyu Song**
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*, IEEE."
+publication = "*IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*"
 publication_short = "In **CVPR**"
 
 # Abstract and optional shortened version.

@@ -18,7 +18,7 @@ authors = ["**Shiyu Song**", "Manmohan Chandraker", "Clark C. Guest"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE International Conference on Robotics and Automation"
+publication = "*IEEE International Conference on Robotics and Automation*"
 publication_short = "In **ICRA**"
 
 # Abstract and optional shortened version.

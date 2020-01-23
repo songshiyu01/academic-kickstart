@@ -18,7 +18,7 @@ authors = ["**Shiyu Song**", "Manmohan Chandraker"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Conference on Computer Vision and Pattern Recognition"
+publication = "*IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)*"
 publication_short = "In **CVPR (Oral)**"
 
 # Abstract and optional shortened version.

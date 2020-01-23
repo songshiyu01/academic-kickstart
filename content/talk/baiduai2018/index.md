@@ -20,7 +20,7 @@ event = "Baidu AI Developer Conference 2018"
 event_url = ""
 
 # Location of event.
-location = "Beijing, China"
+location = "Baidu AI Developer Conference 2018, Beijing, China"
 
 # Is this a featured talk? (true/false)
 featured = true

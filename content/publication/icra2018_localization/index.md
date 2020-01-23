@@ -18,7 +18,7 @@ authors = ["Guowei Wan", "Xiaolong Yang", "Renlan Cai", "Hao Li", "Yao Zhou", "H
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *IEEE International Conference on Robotics and Automation (ICRA)*, IEEE."
+publication = "*IEEE International Conference on Robotics and Automation (ICRA)*"
 publication_short = "In **ICRA**"
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "We present a robust and precise localization system that achieves ce
 abstract_short = "A robust and precise localization system that achieves centimeter-level localization accuracy by adaptively fusing information from complementary sensors such as GNSS, LiDAR, and IMU in disparate city scenes, such as urban downtown, highways, and tunnels."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
