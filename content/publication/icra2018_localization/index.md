@@ -36,7 +36,7 @@ projects = ["msf_localization"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["List"]
 
 # Links (optional).
 url_pdf = "pdf/ICRA18_0470_FI.pdf"

@@ -36,7 +36,7 @@ projects = ["msf_localization"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["List"]
 
 # Links (optional).
 url_pdf = "pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf"

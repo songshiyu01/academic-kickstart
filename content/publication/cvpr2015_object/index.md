@@ -36,7 +36,7 @@ projects = ["monocular_vo"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["List"]
 
 # Links (optional).
 url_pdf = "https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_043.pdf"
