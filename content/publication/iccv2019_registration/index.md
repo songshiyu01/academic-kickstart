@@ -55,7 +55,7 @@ url_video = "https://www.youtube.com/watch?v=O9AMulNyrzY"
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-#doi = "10.1109/ICRA.2018.8461224"
+doi = "10.1109/ICCV.2019.00010"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

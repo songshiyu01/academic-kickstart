@@ -31,13 +31,13 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: University of California, San Diego
-    year: 2014
+    #year: 2014
   - course: M.S. in Electrical and Computer Engineering
     institution: University of California, San Diego
-    year: 2009
+    #year: 2009
   - course: BSc in Electrical Engineering
     institution: Tsinghua University
-    year: 2008
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,6 +72,6 @@ email: "songshiyu@baidu.com"
 #- Visitors
 ---
 
-I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal architect of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the mapping and localization team at Baidu ADT.
+I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal architect of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the map and localization team at Baidu ADT. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
 
 My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
