@@ -48,7 +48,7 @@ tags = ["List"]
 #url_dataset = ""
 #url_project = ""
 #url_slides = ""
-#url_video = "https://www.youtube.com/watch?v=CEvcwRjDVOg"
+url_video = "https://youtu.be/XDoZ0cgEdyU"
 #url_poster = ""
 #url_source = ""
 
