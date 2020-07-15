@@ -42,7 +42,7 @@ projects = ["msf_localization"]
 tags = ["List"]
 
 # Links (optional).
-#url_pdf = "https://arxiv.org/pdf/2003.03026.pdf"
+url_pdf = "pdf/DA4AD_Y.Zhou_S.Song_ECCV2020.pdf"
 #url_preprint = "https://arxiv.org/abs/2003.03026"
 #url_code = ""
 #url_dataset = ""
