@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Architect at Baidu ADT
+role: Principal Scientist at Baidu ADT
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,12 @@ organizations:
   url: "http://usa.baidu.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
+bio: My research interests include Computer Vision, Robotics, Machine Learning, Simultaneous Localization and Mapping (SLAM).
 
 interests:
 - Computer Vision
 - Machine Learning
 - Simultaneous Localization and Mapping (SLAM)
-- Structure from Motion (SFM)
 - Autonomous Driving
 
 education:
@@ -72,6 +71,6 @@ email: "songshiyu@baidu.com"
 #- Visitors
 ---
 
-I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal architect of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the map and localization team at Baidu ADT. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
+I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal scientist of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the map and localization team at Baidu ADT. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
 
-My research interests include Computer Vision, Robotics, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction.
+My research interests include Computer Vision, Robotics, Machine Learning, Simultaneous Localization and Mapping (SLAM).
