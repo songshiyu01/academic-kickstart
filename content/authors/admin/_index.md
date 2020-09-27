@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Scientist at Baidu ADT
+role: Principal Architect at Baidu ADT
 
 # Organizations/Affiliations
 organizations:
@@ -71,6 +71,6 @@ email: "songshiyu@baidu.com"
 #- Visitors
 ---
 
-I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal scientist of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the map and localization team at Baidu ADT. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
+I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal architect of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the map and localization team at Baidu ADT. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
 
 My research interests include Computer Vision, Robotics, Machine Learning, Simultaneous Localization and Mapping (SLAM).
