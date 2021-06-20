@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "songshiyu@baidu.com"
+email = "shiyu.song@tusimple.ai"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1195 Bordeaux Dr.", city = "Sunnyvale", region = "CA", postcode = "94089", country = "United States", country_code = "US"}
+address = {street = "9191 Towne Centre Dr. Ste 600", city = "San Diego", region = "CA", postcode = "92122", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

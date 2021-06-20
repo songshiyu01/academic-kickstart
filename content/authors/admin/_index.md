@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Architect at Baidu ADT
+role: Director of Localization and Mapping
 
 # Organizations/Affiliations
 organizations:
-- name: Baidu USA
-  url: "http://usa.baidu.com/"
+- name: TuSimple USA
+  url: "https://www.tusimple.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Vision, Robotics, Machine Learning, Simultaneous Localization and Mapping (SLAM).
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:songshiyu@baidu.com
+  link: mailto:shiyu.song@tusimple.ai
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shiyu-song-b1902733
@@ -62,7 +62,7 @@ social:
   link: files/CV_ShiyuSong.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "songshiyu@baidu.com"
+email: "shiyu.song@tusimple.ai"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,6 +71,8 @@ email: "songshiyu@baidu.com"
 #- Visitors
 ---
 
-I'm one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. I'm the principal architect of Baidu Autonomous Driving Technology Department (ADT) now. Since Jan. 2016, I am the tech lead of the map and localization team at Baidu ADT. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
+I joined TuSimple USA in June, 2021. We are actively hiring now. Ping me if you are interested in building self-driving trucks together with us!
+
+I was one of the founding team members of the Baidu Autonomous Driving Car project. I joined Baidu in 2014. Since Jan. 2016, I was a tech lead at Baidu ADT, recruited and built the map and localization team from scratch. Starting in 2020, I initiated and lead two exploratory pilot projects, pedestrian trajectory prediction and imitation/reinforcement learning-based decision and planning. Prior to joining Baidu, I was a research scientist in the media analysis group in NEC Labs America, Cupertino CA.
 
 My research interests include Computer Vision, Robotics, Machine Learning, Simultaneous Localization and Mapping (SLAM).
